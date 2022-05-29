@@ -1,0 +1,13 @@
+.table td img{
+	width: 80px;
+	height: 80px;
+}
+form.user .form-control-user{
+	padding: 1rem 1rem;
+}
+.user .form-control{
+	height: 55px;
+}
+.user textarea.form-control{
+	height: 200px
+}
